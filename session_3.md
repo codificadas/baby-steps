@@ -1,6 +1,6 @@
 Hagámos diagramas de flujo
 ===
-En esta sesión se aprenderemos a crear diagramas de flujo sencillos los cuales nos ayudan a representar de manera gráfica nuestros algoritmos escritos.
+En esta sesión aprenderemos a crear diagramas de flujo sencillos los cuales nos ayudan a representar de manera gráfica nuestros algoritmos escritos.
 
 ¿Qué es un algoritmo?
 --
