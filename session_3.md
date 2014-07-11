@@ -7,29 +7,29 @@ En esta sesión aprenderemos a crear diagramas de flujo sencillos los cuales nos
 Conjunto de pasos finitos para ejecutar alguna acción y/o proceso.
 
 
-Ahora si estaremos listas para preguntarnos:
-
 ¿Qué es un diagrama de flujo y para qué me sirve?
 --
 Es la representación grafica de un algoritmo, es una manera un poco más estandar de crear nuestros algoritmos para que alguien más lo entienda al verlo, ya que si volvemos al ejemplo de las recetas de cocina es posible que algún paso no se entienda y que nuestro resultado final no sea el deseado.
 
 Componentes de un diagrama de flujo
 --
-Circulo - Inicio y fin del algoritmo
+**Circulo** - Inicio y fin del algoritmo
 
-Flechas - Indican la dirección del flujo
+**Flechas** - Indican la dirección del flujo
 
-Rombo - Desiciones, tu algoritmo tomará varios rumbos? Úsalo!
+**Rombo** - Desiciones, tu algoritmo tomará varios rumbos? Úsalo!
 
-Rectángulo - Procesos, aquí se representan los procesos que nos dan un resultado que podemos usar más adelante.
+**Rectángulo** - Procesos, aquí se representan los procesos que nos dan un resultado que podemos usar más adelante.
 
-Romboide - Entrada y salida de datos
+**Romboide** - Entrada y salida de datos
+
+**NOTA**: es importante recordarles que existen más símbología, pero estos son los más comunes.
 
 Conceptos adicionales
 --
-Variables: una variable es el nombre que le damos a los datos que utilizamos en nuestros diagramas, estos nos permiten variar los datos que ellas guardan. Por ejemplo num=5, pero también puede ser num=45.
+**Variables:** una variable es el nombre que le damos a los datos que utilizamos en nuestros diagramas, estos nos permiten variar los datos que ellas guardan. Por ejemplo num=5, pero también puede ser num=45.
 
-Constantes: es un concepto parecido a las variables, la diferencia es que para estas el valor que guardan no cambia, es por eso que podemos dejar un dato como el 2 que discutíamos tal cual. En caso de ser necesario lo guardamos en una variable pero su valor es constante como el ejemplo del IVA.
+**Constantes:** es un concepto parecido a las variables, la diferencia es que para estas el valor que guardan no cambia, es por eso que podemos dejar un dato como el 2 que discutíamos tal cual. En caso de ser necesario lo guardamos en una variable pero su valor es constante como el ejemplo del IVA.
 
 Ejemplos de la vida real
 --
@@ -37,15 +37,15 @@ Encargos de la tienda :P, Tests de las revistas para saber si somos geek por eje
 
 Ejercicios
 --
-Hacer un diagrama de flujo para realizar la Suma de dos números.
+1. Hacer un diagrama de flujo para realizar la Suma de dos números.
 
-Hacer un diagrama de flujo para sumar dos números y luego saber si el resultado es mayor a 50
+2. Hacer un diagrama de flujo para sumar dos números y luego saber si el resultado es mayor a 50
 
-Hacer un diagrama de flujo para saber si un usuario es mayor de edad.
+3. Hacer un diagrama de flujo para saber si un usuario es mayor de edad.
 
-Hacer un diagrama de flujo para saber si un número es par o impar.
+4. Hacer un diagrama de flujo para saber si un número es par o impar.
 
-Hacer un diagrama de flujo para saber si un número es par o impar y mostrar además si el número introducido es <= 10.
+5. Hacer un diagrama de flujo para saber si un número es par o impar y mostrar además si el número introducido es <= 10.
 
 
 Extras
