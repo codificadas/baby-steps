@@ -6,4 +6,4 @@ Sesión 1: entendamos a las computadoras
 
 Sesión 2: desarrollemos la lógica
 
-Sesión 2: hagámos diagramas de flujo
+Sesión 3: hagámos diagramas de flujo
