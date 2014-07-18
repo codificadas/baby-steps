@@ -60,7 +60,7 @@ Ejercicios
 
 
 
-Ejercicios extras para prácticar ciclos
+Ejercicios extras para practicar ciclos
 --
 1. Hacer un diagrama para calcular el factorial de un número utilizando ciclos, es decir, pedir al usuario un número por ejemplo 5 y calcular el factorial así: 1 x 2 x 3 x 4 x 5 = 120 (sin usar el operador !).
 
