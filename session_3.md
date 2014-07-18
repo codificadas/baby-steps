@@ -23,7 +23,7 @@ Componentes de un diagrama de flujo
 
 **Romboide** - Entrada y salida de datos
 
-**NOTA**: es importante recordarles que existen más símbología, pero estos son los más comunes.
+**NOTA**: es importante recordarles que existe más símbología, pero estos son los más comunes.
 
 Conceptos adicionales
 --

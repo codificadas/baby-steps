@@ -8,5 +8,5 @@ Sesión 2: [Desarrollemos la lógica](https://github.com/codificadas/baby-steps/
 
 Sesión 3: [Hagámos diagramas de flujo](https://github.com/codificadas/baby-steps/blob/master/session_3.md)
 
-Sesión 4: [Hagámos diagramas de flujo (Parte 2)]()
+Sesión 4: [Hagámos diagramas de flujo (Parte 2)](https://github.com/codificadas/baby-steps/blob/master/session_4.md)
 
