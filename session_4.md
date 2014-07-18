@@ -47,16 +47,16 @@ El ciclo del agua, los años, actualizaciones de software, etc.
 
 Pruebas de escritorio
 --
-Es reemplazar las variables por valores reales para luego "ejecutar" nuestro diagrama y comprobar que está funcionando como esperamos.
+Es reemplazar las variables de entrada de nuestro diagrama de flujo por valores reales para luego "ejecutar" nuestro diagrama y comprobar que está funcionando como esperamos.
 
 
 Ejercicios
 --
-1. Hacer un diagrama de flujo para saber el área de un triángulo, requerimos que el usuario nos proporcione la base y la altura! Mostrar el resultado al usuario.
+1. (Ejercicio previo) Hacer un diagrama de flujo para saber el área de un triángulo, requerimos que el usuario nos proporcione la base y la altura! Mostrar el resultado al usuario.
 
-2. Calcular el factorial de un número proporcionado por el usuario.
+2. Calcular el factorial de un número proporcionado por el usuario utilizando !.
 
-3. Imprimir los números pares que existan desde el número 1 hasta el número que nos proporcione el usuario
+3. Imprimir los números pares que existan desde el número 1 hasta el número que nos proporcione el usuario.
 
 
 
