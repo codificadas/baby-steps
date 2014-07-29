@@ -10,3 +10,4 @@ Sesión 3: [Hagámos diagramas de flujo](https://github.com/codificadas/baby-ste
 
 Sesión 4: [Hagámos diagramas de flujo (Parte 2)](https://github.com/codificadas/baby-steps/blob/master/session_4.md)
 
+Sesión 5: [Practiquemos pseudocódigo](https://github.com/codificadas/baby-steps/blob/master/session_5.md)
