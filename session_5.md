@@ -15,6 +15,7 @@ Ejemplos
 
 __Realizar el pseudocódigo de un programa que permita calcular el área de un rectángulo. Se debe introducir la base y la altura para poder realizar el cálculo.__
 
+```bash
 Programa; área
 Entorno: BASE, ALTURA, AREA son número enteros
 Algoritmo:
@@ -23,7 +24,7 @@ Algoritmo:
             calcular AREA = BASE * ALTURA
             escribir “El área del rectángulo es “AREA
 Finprograma
-
+```
 
 Ejercicios
 --
