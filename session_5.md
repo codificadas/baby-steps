@@ -23,27 +23,29 @@ Sirve para escribir programas de computadora en lenguaje natural de tal manera q
 ¿Qué es un método?
 --
 
-Conjunto de instrucciones a las que se les asocia un nombre de modo que si se desea ejecutarlas sólo basta con referenciarlas a través de dicho nombre en vez de tener que escribirlas.
+- Conjunto de instrucciones a las que se les asocia un nombre de modo que si se desea ejecutarlas sólo basta con referenciarlas a través de dicho nombre en vez de tener que escribirlas.
 
-Todo método devuelve algo (un objeto) como resultado.
+- Todo método devuelve algo (un objeto) como resultado.
 
-Parámetros: opcionalmente puede llevar parámetros
+- Parámetros: opcionalmente puede llevar parámetros
 
-Ejemplo: la salsa que se hace aparte para una receta :P
+- Ejemplo: la salsa que se hace aparte para una receta :P
 
 
 Tipos de datos
 --
 
------- Primitivos ------
-int
-float
-char
-boolean
+Primitivos
+- int = enteros
+- float = decimales
+- double = decimales
+- char = caracteres
+- boolean = 0/1, true/false
 
------ Compuestos ------
-String
-Array
+Compuestos
+
+- String
+- Array
 
 Ejemplos
 --
@@ -70,6 +72,7 @@ Ejercicios
 
 
 Ejercicios Extras
+--
 
 Hacer el pseudocódigo de todos los diagramas de flujo que ya realizamos ;)
 
