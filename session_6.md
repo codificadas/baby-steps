@@ -42,7 +42,7 @@ Gracias a esta evoluciín en los lenguajes existen 4 generaciones. Por lo que lo
 
 Paradigmas de programación
 --
-**¿Que es eso?** Es el estilo en el que está hecho un lenguaje de programación.
+**¿Qué es eso?** Es el estilo en el que está hecho un lenguaje de programación.
 
 Existen muchos tipos, pero el que mas importante actualmente es el **Orientado a Objetos**.
 
@@ -50,14 +50,59 @@ Orientado a objetos como su mismo nombre lo dice. Todo lo convierte a objetos, d
 
 Tipos de ejecución
 --
-**Compilado**
+**Compilado**: El código fuente es convertido a lenguaje máquina por un compilador. Es decir que la computadora evalúa todo nuestro código y luego nos dice si lo entendió, mostrando un resumen de lo que no en caso de haber errores. Es fácil identificar este tipo de ejecución porque siempre, luego de compilar todo nuestro código, obtenemos un archivo "extra", un archivo ejecutable.
 
-**Interpretado**
+**Interpretado**: El código fuente es convertido a lenguaje máquina durante su ejecución por un programa externo llamado intérprete. Es decir, la computadora evalúa nuestro código línea por línea. De esta manera el código se va ejecutando hasta que esté bien, paso a pasito.
 
-**Framework**
+**Framework**: El código fuente es convertido a CRL ( Common Runtime Languaje), el cual contiene instrucciones estandarizadas para ser procesadas por la Máquina virtual o por el Framework. Como ayer comentábamos un Framework es como un contenedor en el que podemos incluir diversas librerías que nuestro programa puede utilizar.
 
-**Emulado**
+**Emulado**: Por lo general, el código máquina que se ejecuta en una plataforma que no era nativa compilada, significa que este emulador simula el hardware para el que el programa fue desarrollado y así poder ser ejecutado.
 
-Ejercicios
+Jerarquía de Operadores
+--
+
+Operadores aritméticos (su resultado es un número)
+     1. paréntesis ()
+     2. signo -,+
+     3. potencias y raices ^
+     4. multiplicaciones y divisiones (módulo tmb) *,/,%
+     5. Sumas y restas, +,-
+
+Operadores relacionales (su resultado es un valor de verdad)
+     6. ==, <, >, <=, >=, <> ó !=
+
+Operadores lógicos o booleanos (su resultado es un valor de verdad, 0 falso, 1 verdadero)
+     7. not, and, or (!, &&, ||)
+
+-- si hay dos o más de la misma jerarquía u orden, resolver de izquierda a derecha.
+Nota: Si se quiere alterar el orden normal de operaciones, entonces usar paréntesis.
+Nota: Tampoco es bueno usar paréntesis de más en una operación, esto sólo indica que no se evalúo bien la formula, como en el siguiente ejemplo:
+
+area = (base * altura) / 2
+
+Lenguajes más comunes (Investiguen de cada uno ;))
+--
+
+  * C
+  * C++
+  * C#
+  * Perl
+  * HTML
+  * JavaScript
+  * PHP
+  * Objective-C
+  * Java
+  * Ruby
+  * SQL
+  * TCL
+  * Visual Basic
+  * ------------------
+  * Ajax
+  * SOAP
+  * UNIX shell
+  * Python
+  * COBAL
+
+Ejercicios de Jerarquía de Operadores
 --
 
