@@ -15,7 +15,7 @@ Por otro lado, igual ya hemos platicado de los tipos de lenguajes: alto y bajo n
 
 Ahora remontándonos un poco a la historia (prehistoria diría yo :P), para que entendamos mejor esto de los tipos de lenguajes. En los años 30's los lenguajes eran de muy bajo nivel y muy difícil de usarlos por lo que los mismos programadores de esa época crearon lenguajes menos complicados. Ya por ahí de los 60's empezaron a enfocarse para crear lenguajes human friendly.
 
-Gracias a esta evoluciín en los lenguajes existen 4 generaciones. Por lo que los lenguajes actuales son lenguajes de cuarta generación.
+Gracias a esta evolución en los lenguajes existen 4 generaciones. Por lo que los lenguajes actuales son lenguajes de cuarta generación.
 
 
 
@@ -63,27 +63,28 @@ Jerarquía de Operadores
 
 **Operadores aritméticos (su resultado es un número)**
 
-1. paréntesis ()
-2. signo -,+
-3. potencias y raices ^
-4. multiplicaciones y divisiones (módulo tmb) *,/,%
-5. Sumas y restas, +,-
+1.- paréntesis ()
+
+2.- signo -,+
+
+3.- potencias y raices ^
+
+4.- multiplicaciones y divisiones (módulo tmb) *,/,%
+
+5.- Sumas y restas, +,-
 
 **Operadores relacionales (su resultado es un valor de verdad)**
 
-6. ==, <, >, <=, >=, <> ó !=
+6.- ==, <, >, <=, >=, <> ó !=
 
 **Operadores lógicos o booleanos (su resultado es un valor de verdad, 0 falso, 1 verdadero)**
 
-7. not, and, or (!, &&, ||)
+7.- not, and, or (!, &&, ||)
 
 Notas:
-
-    - Si hay dos o más de la misma jerarquía u orden, resolver de izquierda a derecha.
-
-    - Si se quiere alterar el orden normal de operaciones, entonces usar paréntesis.
-
-    - Tampoco es bueno usar paréntesis de más en una operación, esto sólo indica que no se evalúo bien la formula, como en el siguiente ejemplo: area = (base * altura) / 2
+- Si hay dos o más de la misma jerarquía u orden, resolver de izquierda a derecha.
+- Si se quiere alterar el orden normal de operaciones, entonces usar paréntesis.
+- Tampoco es bueno usar paréntesis de más en una operación, esto sólo indica que no se evalúo bien la formula, como en el siguiente ejemplo: area = (base * altura) / 2
 
 Lenguajes más comunes (Investiguen de cada uno ;))
 --
