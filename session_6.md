@@ -114,7 +114,7 @@ Ejercicios de Jerarquía de Operadores
 
 Básicos :P
 
-  1. ( 5 ( 7 ( 5 - 3 ) + 12 ) - 2 )
+  1. ( 5 ( 7 ( 5 - 3 ) + 12 ) - 2 ) **Nota** si tenemos 5(5-3) el primer 5 indica multiplicación, es decir el resultado aquí sería: (5-3) = 2, y tenemos 5(2) = 10, 10 es el resultado aquí
   2. ( 5 - 6 ( 7 / 2 ( - 6 - 3 ) + 12 * 24 ) - 2 )
   3. 5 * 3 + 12 - 14 / 2
   4. 2 * 5 * 5 + 3 * 5 + 7
