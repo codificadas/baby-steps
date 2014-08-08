@@ -127,7 +127,7 @@ Básicos :P
   11. NOT( 99 > =50 || 10 >= 75 )
   12. ( 5 > 2 || NOT( 10 >= 9 ))
 
-**Nota para los primeros 2 ejercicios** si tenemos por ejemplo **5(5-3)** el primer 5 indica multiplicación, es decir evaluamos primero: (5-3) = 2, y tenemos 5(2) = 10, 10 es el resultado aquí
+**Nota para los primeros 2 ejercicios** si tenemos por ejemplo **5(5-3)** el primer 5 junto al paréntesis indica multiplicación, es decir evaluamos primero: (5-3) = 2, y tenemos 5(2) = 10, 10 es el resultado aquí
 
 Complicadísimos :3
 
