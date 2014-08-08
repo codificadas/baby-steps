@@ -112,7 +112,7 @@ Lenguajes más comunes (Investiguen de cada uno ;))
 Ejercicios de Jerarquía de Operadores
 --
 
-Básicos :P
+**Básicos :P**
 
   1. ( 5 ( 7 ( 5 - 3 ) + 12 ) - 2 )
   2. ( 5 - 6 ( 7 / 2 ( - 6 - 3 ) + 12 * 24 ) - 2 )
@@ -129,7 +129,7 @@ Básicos :P
 
 **Nota para los primeros 2 ejercicios** si tenemos por ejemplo **5(5-3)** el primer 5 junto al paréntesis indica multiplicación, es decir evaluamos primero: (5-3) = 2, y tenemos 5(2) = 10, 10 es el resultado aquí
 
-Complicadísimos :3
+**Complicadísimos :3**
 
   1. NOT( NOT( ( 10 - 3 ) < ( 8*16 )) AND ( ( 5 - 8 * 16 ) == 12))
   2. ((( 2 + 3 / 4 ) < ( 7 * 60 / 10 ) ) OR ( ( 5 - 8 ) == 12 ) )  OR  ( NOT(( 20 - 2 * 3 ) < ( 8 * 16 )) AND ( 5 - 8 * 16 ) == 12)
