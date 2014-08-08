@@ -73,7 +73,7 @@ Jerarquía de Operadores
 
 5.- Sumas y restas, +,-
 
-**Operadores relacionales (su resultado es un valor de verdad)**
+**Operadores relacionales (su resultado es un valor de verdad, 0 falso, 1 verdadero)**
 
 6.- ==, <, >, <=, >=, <> ó !=
 
