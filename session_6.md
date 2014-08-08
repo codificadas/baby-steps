@@ -76,7 +76,9 @@ Operadores lógicos o booleanos (su resultado es un valor de verdad, 0 falso, 1 
 
 Notas:
     * Si hay dos o más de la misma jerarquía u orden, resolver de izquierda a derecha.
+
     * Si se quiere alterar el orden normal de operaciones, entonces usar paréntesis.
+
     * Tampoco es bueno usar paréntesis de más en una operación, esto sólo indica que no se evalúo bien la formula, como en el siguiente ejemplo: area = (base * altura) / 2
 
 Lenguajes más comunes (Investiguen de cada uno ;))
