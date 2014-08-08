@@ -81,7 +81,7 @@ Jerarquía de Operadores
 
 7.- not, and, or (!, &&, ||)
 
-Notas:
+**NOTAS:**
 - Si hay dos o más de la misma jerarquía u orden, resolver de izquierda a derecha.
 - Si se quiere alterar el orden normal de operaciones, entonces usar paréntesis.
 - Tampoco es bueno usar paréntesis de más en una operación, esto sólo indica que no se evalúo bien la formula, como en el siguiente ejemplo: area = (base * altura) / 2
@@ -111,4 +111,27 @@ Lenguajes más comunes (Investiguen de cada uno ;))
 
 Ejercicios de Jerarquía de Operadores
 --
+
+Básicos :P
+
+  1. ( 5 ( 7 ( 5 - 3 ) + 12 ) - 2 )
+  2. ( 5 - 6 ( 7 / 2 ( - 6 - 3 ) + 12 * 24 ) - 2 )
+  3. 5 * 3 + 12 - 14 / 2
+  4. 2 * 5 * 5 + 3 * 5 + 7
+  5. 10 * 20 > 40 * 10 + 2,
+  6. 8 * 10 <> ( 10 - 30 ) * 16
+  7. 5 > 2 AND 10 >= 9
+  8. 3 > 5 AND 3 < 10
+  9. 5 > 2 OR 10 >= 9
+  10. 3 > 5 OR 3 < 10
+  11. NOT( 99 > =50 || 10 >= 75 )
+  12. ( 5 > 2 || NOT( 10 >= 9 ))
+
+Complicadísimos :3
+
+  1. NOT( NOT( ( 10 - 3 ) < ( 8*16 )) AND ( ( 5 - 8 * 16 ) == 12))
+  2. ((( 2 + 3 / 4 ) < ( 7 * 60 / 10 ) ) OR ( ( 5 - 8 ) == 12 ) )  OR  ( NOT(( 20 - 2 * 3 ) < ( 8 * 16 )) AND ( 5 - 8 * 16 ) == 12)
+
+
+
 
