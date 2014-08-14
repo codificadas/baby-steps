@@ -1,7 +1,7 @@
 Conceptos básicos de programación
 ==
 
-En nuestre séptima sesión de Baby Steps continuaremos  con una serie de pláticas sobre conceptos necesarios para aprender a programar.
+En nuestre séptima sesión de Baby Steps seguiremos analizando algunos conceptos necesarios para aprender a programar.
 
 Sintaxis
 --
