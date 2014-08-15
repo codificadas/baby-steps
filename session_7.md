@@ -50,6 +50,8 @@ Entrada/Salida
 
 **Dispositivos de Entrada:** Cualquier método utilizado para darle a un programa información.
 
+Tocamos este tema para poder comprender la relación que existe entre estos dispositivos y la utilidad que tienen cuando desarrollamos programas.
+
     - Teclado
 
 **Dispositivos de Salida:** Cualquier método utilizado para obtener información de un programa.
