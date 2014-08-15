@@ -81,3 +81,7 @@ Además de los ejercicios extras con los que pueden practicar aquí:
 Sesión 3: [Hagámos diagramas de flujo](https://github.com/codificadas/baby-steps/blob/master/session_3.md)
 
 Sesión 4: [Hagámos diagramas de flujo (Parte 2)](https://github.com/codificadas/baby-steps/blob/master/session_4.md)
+
+Slides:
+--
+Sesión 5: [Practiquemos pseudocódigo](https://www.haikudeck.com/baby-steps-education-presentation-eUqycWloNl)

@@ -25,3 +25,7 @@ Ejemplos
 Al final nos dimos cuenta que por mas que ya sepamos relaizar cualquiera de los ejemplos dados nos hicieron falta algunos pasos para poder completarlos.
 
 Las computadoras son muy tontas y sino les dices todos los pasos ellas no tendran idea de que hacer, por eso la importancia de ser muy especificas y claras al momento de decirle a la computadora que hacer.
+
+Slides:
+--
+Sesión 2: [Desarrollemos la lógica](https://www.haikudeck.com/baby-steps-education-presentation-udgjCCdvSw)

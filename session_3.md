@@ -55,3 +55,7 @@ Extras
 2. Hacer un diagrama de flujo para calcular la edad de una persona, necesitamos que el usuario nos proporcione su fecha de nacimiento! Mostrar la edad del usuario.
 
 3. Hacer un diagrama de flujo para calcular el promedio final de un alumno, pedir al usuario las calificaciones de 5 materias! Mostrar el promedio final del alumno y también decir si el alumno aprobó o reprobó. Si el promedio <= 5 (reprobado), Si el promedio es >5 (aprobado!)
+
+Slides:
+--
+Sesión 3: [Hagámos diagramas de flujo](https://www.haikudeck.com/baby-steps-education-presentation-EaE25HnJwm)

@@ -138,6 +138,6 @@ Ejercicios de Jerarquía de Operadores
   1. NOT( NOT( ( 10 - 3 ) < ( 8*16 )) AND ( ( 5 - 8 * 16 ) == 12))
   2. ((( 2 + 3 / 4 ) < ( 7 * 60 / 10 ) ) OR ( ( 5 - 8 ) == 12 ) )  OR  ( NOT(( 20 - 2 * 3 ) < ( 8 * 16 )) AND ( 5 - 8 * 16 ) == 12)
 
-
-
-
+Slides:
+--
+Sesión 6: [Primer contacto con los lenguajes de programación](https://www.haikudeck.com/baby-steps-education-presentation-TgOxMAprjV)

@@ -35,3 +35,7 @@ Como ya mencionamos, las computadoras lo único que entienden es binario, pero p
 Los lenguajes de programación son una manera humana de comunicarnos con la computadora. Estos son como los lenguajes normales del habla, por ejemplo hablar Inglés puede ser similar que saber Ruby o hablar Alemán puede ser similar a hablar Java y asi sucesivamente con todos los demas lenguajes de programacion.
 
 Y así como los lenguajes del habla, tienen gramática y semántica, los lenguajes de programación también tienen sus reglas.
+
+Slides:
+--
+Sesión 1: [Entendamos a las computadoras](https://www.haikudeck.com/baby-steps-education-presentation-n5f0MPX6EY)

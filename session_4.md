@@ -65,3 +65,7 @@ Ejercicios extras para practicar ciclos
 1. Hacer un diagrama para calcular el factorial de un número utilizando ciclos, es decir, pedir al usuario un número por ejemplo 5 y calcular el factorial así: 1 x 2 x 3 x 4 x 5 = 120 (sin usar el operador !).
 
 2. Hacer un diagrama de flujo que muestre en pantalla por ejemplo: "Hola Erika" el número de veces que el usuario diga. Es decir, pedir al usuario su nombre, y un número.
+
+Slides:
+--
+Sesión 4: [Hagámos diagramas de flujo (Parte 2)](https://www.haikudeck.com/baby-steps-education-presentation-0dtEZkN01Z)
