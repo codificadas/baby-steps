@@ -8,18 +8,17 @@ Sintaxis
 
 Conjunto de reglas que combina símbolos y formato para definir la estructura de un programa de computadora.
 
-    Es como la gramática
-    Muchos lenguajes tienen su propia sintaxis
+    - Es como la gramática
+    - Muchos lenguajes tienen su propia sintaxis
 
 Variables
 --
 
 Usadas para guardar un valor en memoria que puede ser usado en el programa.
 
-    * Alcance de las variables (locales y globales)
-       * Una variable sólo está disponible para una sección de un programa basado en:
-          * Dónde se declaró
-          * El tipo de variable
+    - Alcance de las variables (locales y globales): Una variable sólo está disponible para una sección de un programa basado en:
+        - Dónde se declaró
+        - El tipo de variable
 
 Arrays/Arreglos
 --
