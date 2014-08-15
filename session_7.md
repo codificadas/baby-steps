@@ -76,6 +76,14 @@ Depende del lenguaje de programación si se hacen diferencias entre estos dos co
 
 **Método:** Lo mismo que una función pero está exclusivamente relacionada a una clase u objeto específica (POO)
 
+
+Ejercicios para prácticar métodos y arrays
+__
+
+1. Hacer el pseudocódigo de un programa que permita al usuario introducir 5 calificaciones (utilizar un array), ya tendiendo las calificaciones utilizar un método para calcular el promedio y mostrárselo al usuario.
+
+2. Hacer el pseudocódigo de un programa que permita al usuario introducir 9 números (utilizar un array bidimensional ejemplo: numeros[3][3]), calcular la suma de la diagonal y mostrarla al usuario. (Pista: significa que sumaremos sólo los números que se encuentren en la posición [0][0],[1][1] y [2][2])
+
 Slides:
 --
 Sesión 7: [Conceptos básicos de programación](https://www.haikudeck.com/baby-steps-science-and-technology-presentation-ryJAtcTWJe)
