@@ -50,12 +50,12 @@ Entrada/Salida
 
 **Dispositivos de Entrada:** Cualquier método utilizado para darle a un programa información.
 
-    * Teclado
+    - Teclado
 
 **Dispositivos de Salida:** Cualquier método utilizado para obtener información de un programa.
 
-     * Monitor
-     * Impresora
+     - Monitor
+     - Impresora
 
 
 Dependencias/Librerías
