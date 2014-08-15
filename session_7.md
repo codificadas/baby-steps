@@ -1,15 +1,15 @@
 Conceptos básicos de programación
 ==
 
-En nuestre séptima sesión de Baby Steps seguiremos analizando algunos conceptos necesarios para aprender a programar.
+En nuestra séptima sesión de Baby Steps seguiremos analizando algunos conceptos necesarios para aprender a programar.
 
 Sintaxis
 --
 
 Conjunto de reglas que combina símbolos y formato para definir la estructura de un programa de computadora.
 
-    * Es como la gramática
-    * Muchos lenguajes tienen su propia sintaxis
+    Es como la gramática
+    Muchos lenguajes tienen su propia sintaxis
 
 Variables
 --
