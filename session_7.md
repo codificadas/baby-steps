@@ -53,6 +53,7 @@ Tocamos este tema para poder comprender la relación que existe entre estos disp
 **Dispositivos de Entrada:** Cualquier método utilizado para darle a un programa información.
 
     - Teclado
+    - Lector de códigos de barra
 
 **Dispositivos de Salida:** Cualquier método utilizado para obtener información de un programa.
 
