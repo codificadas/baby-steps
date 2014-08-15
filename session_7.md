@@ -48,9 +48,9 @@ Una variable que guarda una dirección de memoria en lugar de un valor.
 Entrada/Salida
 --
 
-**Dispositivos de Entrada:** Cualquier método utilizado para darle a un programa información.
-
 Tocamos este tema para poder comprender la relación que existe entre estos dispositivos y la utilidad que tienen cuando desarrollamos programas.
+
+**Dispositivos de Entrada:** Cualquier método utilizado para darle a un programa información.
 
     - Teclado
 
