@@ -82,7 +82,7 @@ Ejercicios para prácticar métodos y arrays
 
 1. Hacer el pseudocódigo de un programa que permita al usuario introducir 5 calificaciones (utilizar un array), ya tendiendo las calificaciones utilizar un método para calcular el promedio y mostrárselo al usuario.
 
-2. Hacer el pseudocódigo de un programa que permita al usuario introducir 9 números (utilizar un array bidimensional ejemplo: **numeros[3][3]**), utilizar un método para calcular la suma de la diagonal y mostrarla al usuario. (**Pista:** significa que sumaremos sólo los números que se encuentren en la posición **[0][0],[1][1] y [2][2]**)
+2. Hacer el pseudocódigo de un programa que permita al usuario introducir 9 números (utilizar un array bidimensional ejemplo: **numeros[3][3]**), utilizar un método para calcular la suma de la diagonal y mostrarla al usuario. (**Pista:** significa que sumaremos sólo los números que se encuentren en la posición **[0][0], [1][1] y [2][2]**)
 
 
 Slides:
