@@ -45,8 +45,9 @@ Clasificación de los lenguajes de programación
 
 Los lenguajes de programación se clasifican en dos:
 
-    - **Lenguajes de bajo nivel:** Un lenguaje de muy bajo nivel requiere que un humano proporcione instrucciones directamente al hardware de la computadora, usando el lenguaje y la estructura de dicho hardware.
-    - **Lenguajes de alto nivel:** En el caso de los lenguajes de alto nivel, los humanos trabajan con herramientas lógicas complejas y abstractas para escribir instrucciones que un programa determinado debe traducir para que la computadora comprenda. Generalmente es más fácil para los humanos usar estas herramientas.
+**Lenguajes de bajo nivel:** Un lenguaje de muy bajo nivel requiere que un humano proporcione instrucciones directamente al hardware de la computadora, usando el lenguaje y la estructura de dicho hardware.
+
+**Lenguajes de alto nivel:** En el caso de los lenguajes de alto nivel, los humanos trabajan con herramientas lógicas complejas y abstractas para escribir instrucciones que un programa determinado debe traducir para que la computadora comprenda. Generalmente es más fácil para los humanos usar estas herramientas.
 
 
 Slides:
