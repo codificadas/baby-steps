@@ -77,7 +77,7 @@ Depende del lenguaje de programación si se hacen diferencias entre estos dos co
 **Método:** Lo mismo que una función pero está exclusivamente relacionada a una clase u objeto específica (POO)
 
 
-Ejercicios para prácticar métodos y arrays
+Ejercicios para practicar métodos y arrays
 --
 
 1. Hacer el pseudocódigo de un programa que permita al usuario introducir 5 calificaciones (utilizar un array), ya tendiendo las calificaciones utilizar un método para calcular el promedio y mostrárselo al usuario.
