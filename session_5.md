@@ -16,13 +16,11 @@ En esta sesión aprenderemos pseudocódigo, una manera más cercana de programar
 
 ¿Para qué me sirve?
 --
-
 Sirve para escribir programas de computadora en lenguaje natural de tal manera que se facilite la comprensión, prueba y posterior codificación en un lenguaje de programación específico.
 
 
 ¿Qué es un método?
 --
-
 - Conjunto de instrucciones a las que se les asocia un nombre de modo que si se desea ejecutarlas sólo basta con referenciarlas a través de dicho nombre en vez de tener que escribirlas.
 
 - Todo método devuelve algo (un objeto) como resultado.
