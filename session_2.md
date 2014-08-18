@@ -22,8 +22,9 @@ Es un conjuto de pasos finitos para ejecutar alguna accion y/o proceso.
 
 En general, los algoritmos son utilizados para organizar las ideas que se tienen para la solución de un problema, dándoles un orden lógico.
 
-    - Los algoritmos poseen hoy en día una gran importancia tanto para informática, robótica y ciencias de la computación, por medio de algoritmos se llega a un orden de ideas y a un proceso correcto en la elaboración de maquinarias y robots lo que conlleva a un avance en la tecnología y un mayor progreso a nivel mundial.
-    - Los algoritmos conllevan a llevar un proceso y un orden de ideas en todos los aspectos, pues cada actividad por mínima que sea requiere un orden que se da por medio de los grandes algoritmos que creamos asi sean mentales.
+__Los algoritmos poseen hoy en día una gran importancia tanto para informática, robótica y ciencias de la computación, por medio de algoritmos se llega a un orden de ideas y a un proceso correcto en la elaboración de maquinarias y robots lo que conlleva a un avance en la tecnología y un mayor progreso a nivel mundial.__
+
+__Los algoritmos conllevan a llevar un proceso y un orden de ideas en todos los aspectos, pues cada actividad por mínima que sea requiere un orden que se da por medio de los grandes algoritmos que creamos asi sean mentales.__
 
 
 Partes de un algoritmo
@@ -31,9 +32,11 @@ Partes de un algoritmo
 
 Todo Algoritmo debe tener las siguientes partes:
 
-    - **Entrada de datos:** son los datos necesarios que el algoritmo necesita para ser ejecutado.
-    - **Proceso:** es la secuencia de pasos para ejecutar el algoritmo.
-    - **Salida de resultados:** son los datos obtenidos después de la ejecución del algoritmo.
+**Entrada de datos:** son los datos necesarios que el algoritmo necesita para ser ejecutado.
+
+**Proceso:** es la secuencia de pasos para ejecutar el algoritmo.
+
+**Salida de resultados:** son los datos obtenidos después de la ejecución del algoritmo.
 
 Ejemplos
 --
