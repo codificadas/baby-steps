@@ -47,7 +47,18 @@ El programa para hacer programas :P
 
 Un IDE nos da todas la hermamientas para que podamos escribir tranquilamente nuestro código. Estos ya compilan y corren el programa por ti.
 
-Hay de muchos sabores y colores, cada quien usa el que más le gusta.
+Hay de muchos sabores y colores, cada quien usa el que más le gusta. Igual depende del lenguaje de programación que utilices
+
+Aquí unos IDE's:
+*RubyMine
+*NetBeans
+*Aptana
+
+Por otro lado sino queremos usar programas tan sofisticados (complicados aveces) podemos usar simples editores de texto, hasta en notepad puedes usar para programar, claro que estos no tienen tantas herramientas pero sirven para el mismo fin.
+
+Algunos de estos son:
+* Sublime Text
+* VIM
 
 API
 --
