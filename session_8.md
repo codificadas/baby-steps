@@ -63,3 +63,7 @@ Algunos de estos son:
 API
 --
 Application Programming Interface son un conjunto de métodos disponibles para hacer uso de otra aplicación.
+
+Slides:
+--
+Sesión 8: [Conceptos básicos de programación (Episodio II)](https://www.haikudeck.com/baby-steps-education-presentation-fQjTipqKeU)
