@@ -27,3 +27,45 @@ Existen muchos beneficios que se pueden obtener de entrar en el mundo de la prog
 - **Bien pagado:** una de las profesiones mejor pagadas, con altos salarios iniciales y altas propabilidades de crecer.
 - **Trabajas en entornos creativos:** desarrollar es crear.
 - **Aprendes acerca de muchas cosas:** como ya se mencionó anteriormente desarrollar no es sólo programar, también aprendes de bases de datos, redes, procesmaiento de gráficos, etc.
+
+Desafíos
+--
+Al ser desarrolladores de software nos podemos encontrar con algunos desafíos como:
+- **Trabajar bajo presión:** debes lograr que lo que estás haciendo funcione.
+- **Invertir tiempo: ** cuando no sabes hacer algo, toma tiempo investigarlo, aprenderlo, y después aplicarlo.
+- **Sedentarismo: ** es un reto cuando tu tarea es estar frente ala computadora, pero puedo luchar contra eso levantándote periódicamente a caminar alrededor o hacer alguna actividad simple lejos de tu monitor.
+- **Agotador: ** a final de cuentas te desgastas mentalmente, pero hay que saber equilibrar el trabajo con algunas otras actividades como el ejercicio o salidas con amigos.
+
+¿Cómo integrarte en el ambiente laboral?
+--
+Cuando empiezas a trabajar en el desarrollo de software hay algunas cosas que debes tomar en cuenta para que puedas salir adelante.
+- **Puedes saber más o menos que otros: ** No importa cuantos años de trabajo tengas, siempre habrá alguien que sepa más o menos que uno. O que sepa algo diferente a tí.
+- **Toma tiempo adaptarte: ** No esperes estar en tu primer semana y querer saber todo. Generalmente hay un tiempo de capacitación o un lapso de 3 a 6 meses en el que te adaptas a la manera en que funcionan las cosas en tu trabajo.
+- **No mientas sobre tus conocimientos:** No mientas sobre lo que sabes, en lugar de eso muéstrate entusiasta por la oportunidad de aprender algo nuevo.
+- **Siempre habrá alguien que quiera invertir en tí:**  Si muestras entusiasmo por lo que haces y apertura al aprendizaje.
+
+Aprende a vivir con...
+--
+Hay muchas cosas buenas de ser un desarrollador, pero también hay ciertas situaciones de las que se puede aprender:
+- **Tu trabajo puede ir a casa contigo:**  No es que la vayas a pasar todo el día trabajando, sino que en ocasiones vte sentirás más cómoda trabajando después de las 5.  La inspiración llega en los momentos más inoportunos.
+- **Diversidad de culturas y edades:** así como habrá desarrolladores con experiencia que tengan dificultad de adaptarse a nuevas tecnologías y metodologías, los más jóvenes podrían tener menos respeto por los procedimientos a seguir. 
+- **Proponer nuevas ideas, pero no forzarlas:** No esperes que tu ideas sean siempre aceptadas.
+- **No todos los días es una vistoria:** El día podría terminar y tu aplicación podría no estar funcionando como esperabas. Es normal, al día siguiente sabrás cómo solucionarlo.
+
+Comunidad
+--
+Una comunidad es un grupo de personas que comparten una o varias características en común y que participan y cooperan entre sí para un mismo fin. Las comunidades de software existen por las siguientes razones:
+- Compartir es bueno
+Siempre encontrarás alguien que tenga el mismo problema o quiera hacerlo mismo que tú.
+- Ayudar mutuamente
+Las personas que quieren involucrarse en el desarrollo de software necesitan orientación y asímismo, desarrolladores con muchos años de experiencia necesitan ayuda para estar actualizados. 
+- Compartir y respetar los derechos de autor. 
+Existen muchos códigos abiertos que pueden ser utilizados cuando se necesiten.
+- Desarrollar es un estilo de vida
+Así como los doctores tienen una forma de vida, un desarrollador tiene su propio estilo. Acéptalo, muéstralo y sé feliz!
+- Aprender a tener mente abierta (open mind!) porque existen diferentes formas de resolver un mismo problema.
+
+Ésta pregunta es para tí:
+¿Quiero ser una desarrolladora de software?
+
+Si quieres, puedes! Paso a paso lo lograremos!
