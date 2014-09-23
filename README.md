@@ -2,6 +2,8 @@ Baby Steps
 ==========
 Toda la información platicada en las sesiones de Baby Steps se estará recopilando en este repo.
 
+Sesión 0: [¿Puedo ser una desarrolladora de Software?](https://github.com/codificadas/baby-steps/blob/master/session_0.md)
+
 Sesión 1: [Entendamos a las computadoras](https://github.com/codificadas/baby-steps/blob/master/session_1.md)
 
 Sesión 2: [Desarrollemos la lógica](https://github.com/codificadas/baby-steps/blob/master/session_2.md)
