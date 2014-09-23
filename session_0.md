@@ -15,7 +15,7 @@ Un buen desarrollador de software debe cumplir con ciertas características, que
 - **Investigación:** el mundo de las tecnologías está en constante cambio, por lo que depende de tí que investigues para que te mantengas actualizado.
 - **Entender diferentes soluciones:** debes ser capaz de entender código que no escribiste. Aprender diferentes idiomas ayuda :)
 - **Aceptar responsabilidad:** A veces se cometen errores y no es nada del otro mundo que eso ocurra, simplemente hay que aceptarlo y aprender todo lo que sea posible. Igual que en la vida diaria ;)
-- **No** tengas miedo de intentar algo nuevo. Lo único que puede pasar es que no funcione y eso se arregla :)
+- **No tengas miedo de intentar algo nuevo:** Lo único que puede pasar es que no funcione y eso se arregla :)
 
 Beneficios
 --
@@ -61,7 +61,7 @@ Una comunidad es un grupo de personas que comparten una o varias característica
 - **Desarrollar es un estilo de vida:** así como los doctores tienen una forma de vida, un desarrollador tiene su propio estilo. Acéptalo, muéstralo y sé feliz!
 - **Aprender a tener mente abierta (open mind!)** porque existen diferentes formas de resolver un mismo problema.
 
-Ésta pregunta es para para que te la hagas tú misma:
+Ésta pregunta es para que te la hagas tú misma:
 ¿Quiero ser una desarrolladora de software?
 
 Si quieres, puedes! Paso a paso lo lograremos!
