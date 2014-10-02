@@ -69,3 +69,7 @@ Si quieres, puedes! Paso a paso lo lograremos!
 Slides:
 --
 Sesión 0: [¿Puedo ser una desarrolladora de Software?](https://www.haikudeck.com/puedo-ser-una-desarrolladora-de-software-education-presentation-f2rVe9Q9Ee)
+
+Recursos
+--
+Juego: [Las 6 Ranas](http://www.juegosdiarios.com/juegos/3-ranas.html)
