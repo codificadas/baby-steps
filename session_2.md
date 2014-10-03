@@ -68,7 +68,9 @@ Sesión 2: [Desarrollemos la lógica](https://www.haikudeck.com/baby-steps-educa
 
 Tarea:
 --
-El juego del río: [Juega aquí](http://freeweb.siol.net/danej/riverIQGame.swf)
+Resolver el siguiente juego y escribir el algoritmo paso por paso de cómo se resuelve.
+
+El juego del río: [Entra a jugar aquí](http://freeweb.siol.net/danej/riverIQGame.swf)
 
 El objetivo es pasar a todos al otro lado del río, son un padre, una madre, dos hijos, dos hijas, un policía y un raterito.
 
