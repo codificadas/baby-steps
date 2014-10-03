@@ -41,9 +41,13 @@ Todo Algoritmo debe tener las siguientes partes:
 Características de un algoritmo:
 --
 **Finitos:** Deben tener un final bien establecido.
+
 **Generales para el propósito que son creados:** Deben funcionar siempre (si hago un algoritmo para plantar un planta de ornato, debe funcionar para cualquier planta de ornato, lo mismo si hago un algoritmo para enviar un mensaje a un contacto).
+
 **Claros y precisos:** Se debe especificar con detalle cada instrucción.
+
 **Exento de ambigüedades:**  No debe dar lugar a malos entendidos.
+
 **Numerados:** Deben llevar un orden.
 
 Ejemplos
