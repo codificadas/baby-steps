@@ -70,5 +70,5 @@ El objetivo es pasar a todos al otro lado del río, son un padre, una madre, dos
 
 **Reglas:**
 - Se puede pasar a un adulto solo, dos adultos o un adulto acompañado de un menor. Pero los menores (o el raterito) no pueden viajar solos.
-- El padre no se lleva bien con las hijas, y la madre con los hijos (los niñ@s no pueden quedarse solos sin el otro padre o se maltratan), y el raterito si no lo vigila el policía se da de golpes con cualquiera.
+- El padre no se lleva bien con las hijas, y la madre con los hijos (los niñ@s no pueden quedarse solos sin su padre -del mismo género- o son maltratados por el otro u,u), y el raterito si no lo vigila el policía se da de golpes con cualquiera.
 - Diviértete! :)
