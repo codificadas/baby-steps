@@ -65,7 +65,9 @@ Sesión 2: [Desarrollemos la lógica](https://www.haikudeck.com/baby-steps-educa
 Tarea:
 --
 El juego del río: [Juega aquí](http://freeweb.siol.net/danej/riverIQGame.swf)
+
 El objetivo es pasar a todos al otro lado del río, son un padre, una madre, dos hijos, dos hijas, un policía y un raterito.
+
 **Reglas:**
 - Se puede pasar a un adulto solo, dos adultos o un adulto acompañado de un menor. Pero los menores (o el raterito) no pueden viajar solos.
 - El padre no se lleva bien con las hijas, y la madre con los hijos (los niñ@s no pueden quedarse solos sin el otro padre o se maltratan), y el raterito si no lo vigila el policía se da de golpes con cualquiera.
