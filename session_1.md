@@ -53,3 +53,7 @@ Los lenguajes de programación se clasifican en dos:
 Slides:
 --
 Sesión 1: [Entendamos a las computadoras](https://www.haikudeck.com/baby-steps-education-presentation-n5f0MPX6EY)
+
+Recursos:
+--
+Juego: [Sudoku](http://servicios.elpais.com/juegos/nuevos/sudoku2/)
