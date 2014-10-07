@@ -1,4 +1,4 @@
-Hagámos diagramas de flujo
+Hagamos diagramas de flujo
 ===
 En esta sesión aprenderemos a crear diagramas de flujo sencillos los cuales nos ayudan a representar de manera gráfica nuestros algoritmos escritos.
 
@@ -25,14 +25,14 @@ Componentes de un diagrama de flujo
 
 **Romboide** - Entrada y salida de datos
 
-**NOTA**: es importante recordarles que existe más símbología, pero estos son los más comunes.
+**NOTA**: es importante recordarles que existe más simbología, pero estos son los más comunes.
 
 
 Conceptos adicionales
 --
 **Variables:** una variable es el nombre que le damos a los datos que utilizamos en nuestros diagramas, estos nos permiten variar los datos que ellas guardan. Por ejemplo num=5, pero también puede ser num=45.
 
-**Constantes:** es un concepto parecido a las variables, la diferencia es que para estas el valor que guardan no cambia, es por eso que podemos dejar un dato como el 2 que discutíamos tal cual. En caso de ser necesario lo guardamos en una variable pero su valor es constante como el ejemplo del IVA.
+**Constantes:** es un concepto parecido a las variables, la diferencia es que para éstas el valor que guardan no cambia, es por eso que podemos dejar un dato como el 2 que discutíamos tal cual. En caso de ser necesario lo guardamos en una variable pero su valor es constante como el ejemplo del IVA.
 
 
 Ejemplos de la vida real
