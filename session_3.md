@@ -41,10 +41,10 @@ Conceptos adicionales
 - Resta (-)
 - Multiplicación (*)
 - División (/) 
-- Modulo/Residuo (%)
+- Módulo/Residuo (%)
 - Potencia (^)
 
-**Operadores logicos o relacionales:** nos permiten hacer comparaciones entre dos valores. Si el resultado de la comparación es correcto la expresión considerada es verdadera de lo contrario es falsa.
+**Operadores lógicos o relacionales:** nos permiten hacer comparaciones entre dos valores. Si el resultado de la comparación es correcto la expresión considerada es verdadera de lo contrario es falsa.
 - Igual a (=)
 - Distinto a (<>)
 - Mayor que (>)
