@@ -15,7 +15,7 @@ Es la representación grafica de un algoritmo, es una manera un poco más están
 
 Componentes de un diagrama de flujo
 --
-**Circulo** - Inicio y fin del diagrama de flujo
+**Óvalo** - Inicio y fin del diagrama de flujo
 
 **Flechas** - Indican la dirección del flujo
 
@@ -25,6 +25,8 @@ Componentes de un diagrama de flujo
 
 **Romboide** - Entrada y salida de datos
 
+**Rectángulo embarazado :)** - Nos sirve para imprimir en pantalla.
+
 **NOTA**: es importante recordarles que existe más simbología, pero estos son los más comunes.
 
 
@@ -33,6 +35,24 @@ Conceptos adicionales
 **Variables:** una variable es el nombre que le damos a los datos que utilizamos en nuestros diagramas, estos nos permiten variar los datos que ellas guardan. Por ejemplo num=5, pero también puede ser num=45.
 
 **Constantes:** es un concepto parecido a las variables, la diferencia es que para éstas el valor que guardan no cambia, es por eso que podemos dejar un dato como el 2 que discutíamos tal cual. En caso de ser necesario lo guardamos en una variable pero su valor es constante como el ejemplo del IVA.
+
+**Operadores aritméticos:** nos permiten hacer cualquier operación aritmética que necesitemos.
+- Suma (+)
+- Resta (-)
+- Multiplicación (*)
+- División (/) 
+- Modulo/Residuo (%)
+- Potencia (^)
+
+**Operadores logicos o relacionales:** nos permiten hacer comparaciones entre dos valores. Si el resultado de la comparación es correcto la expresión considerada es verdadera de lo contrario es falsa.
+- Igual a (=)
+- Distinto a (<>)
+- Mayor que (>)
+- Menor que (<)
+- Mayor o igual que (>=)
+- Menor o igual que (<=)
+- And (&)
+- Or (|)
 
 
 Ejemplos de la vida real
