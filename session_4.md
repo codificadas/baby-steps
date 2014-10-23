@@ -30,7 +30,7 @@ Para(For):Dado un valor inicial exp1 asignado a la variable esta se irá aumenta
 
 Mientras Que(Do While): Esta es una estructura que repetirá un proceso durante “N” veces, donde “N” puede ser fijo o variable. Para esto, la instrucción se vale de una condición que es la que debe cumplirse para que se siga ejecutando. Cuando la condición ya no se cumple, entonces ya no se ejecuta el proceso. 
 
-Repita-Hasta(Do Until): Esta es una estructura repite un proceso una cantidad de veces, pero a diferencia del Mientras Que, el Do Until lo hace hasta que la condición se cumple y no mientras, como en el Do While. Por otra parte, esta estructura permite realizar el proceso cuando menos una vez, ya que la condición se evalúa al final del proceso, mientras que en el Do While puede ser que nunca llegue a entrar si la condición no se cumple desde un principio. 
+Repita-Hasta(Do Until): Esta es una estructura repite un proceso una cantidad de veces, pero a diferencia del Do While, el Do Until lo hace hasta que la condición se cumple y no mientras, como en el Do While. Por otra parte, esta estructura permite realizar el proceso cuando menos una vez, ya que la condición se evalúa al final del proceso, mientras que en el Do While puede ser que nunca llegue a entrar si la condición no se cumple desde un principio. 
 
 Componentes de un diagrama de flujo
 --
