@@ -16,7 +16,7 @@ En esta sesión aprenderemos pseudocódigo, una manera más cercana de programar
 
 ¿Para qué me sirve?
 --
-Sirve para escribir programas de computadora en lenguaje natural de tal manera que se facilite la comprensión, prueba y posterior codificación en un lenguaje de programación específico.
+Sirve para representar o describir un algoritmo en lenguaje natural de tal manera que se facilite la comprensión, prueba y posterior codificación en un lenguaje de programación específico.
 
 
 ¿Qué es un método?
