@@ -1,4 +1,4 @@
-Hagámos diagramas de flujo (Parte 2)
+Hagamos diagramas de flujo (Parte 2)
 ===
 En esta sesión continuaremos aprendiendo diagramas de flujo sencillos los cuales nos ayudan a representar de manera gráfica nuestros algoritmos escritos.
 
@@ -95,4 +95,4 @@ Ejercicios extras para practicar ciclos
 
 Slides:
 --
-Sesión 4: [Hagámos diagramas de flujo (Parte 2)](https://www.haikudeck.com/baby-steps-education-presentation-0dtEZkN01Z)
+Sesión 4: [Hagamos diagramas de flujo (Parte 2)](https://www.haikudeck.com/baby-steps-education-presentation-0dtEZkN01Z)
