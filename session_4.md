@@ -20,22 +20,44 @@ Un bucle o ciclo, en programación, es una sentencia que se realiza repetidas ve
 
 **NOTA**: Es importante mencionar que para que nuestro ciclo funcione perfectamente necesitamos una variable que lo controle, el proceso que queremos repetir varias veces y la condición que hará que el ciclo se rompa.
 
+Clasificación 
+--
+**Ciclo automático** - Son aquellos en que el número de iteraciones se conoce antes de ejecutarse el ciclo.
+
+Para(For):Dado un valor inicial exp1 asignado a la variable esta se irá aumentando o disminuyendo de acuerdo a la exp3 hasta llegar a la exp2; si se omite el paso, significa que la variable aumentará de uno en uno.
+
+**Ciclos indeterminados** - Son aquellos en que el numero de iteraciones no se conoce con exactitud.
+
+Mientras Que(while): Esta es una estructura que repetirá un proceso durante “N” veces, donde “N” puede ser fijo o variable. Para esto, la instrucción se vale de una condición que es la que debe cumplirse para que se siga ejecutando. Cuando la condición ya no se cumple, entonces ya no se ejecuta el proceso. 
+
+Repita-Hasta(Do While): Esta es una estructura repite un proceso una cantidad de veces, pero a diferencia del Mientras Que, el Repita-Hasta lo hace hasta que la condición se cumple y no mientras, como en el Mientras Que. Por otra parte, esta estructura permite realizar el proceso cuando menos una vez, ya que la condición se evalúa al final del proceso, mientras que en el Mientras Que puede ser que nunca llegue a entrar si la condición no se cumple desde un principio. 
 
 Componentes de un diagrama de flujo
 --
-**Circulo** - Inicio y fin del algoritmo
+**Óvalo** - Inicio y fin del algoritmo.
 
-**Flechas** - Indican la dirección del flujo
+**Flechas** - Indican la dirección del flujo.
 
 **Rombo** - Desiciones, tu algoritmo tomará varios rumbos? Úsalo!
 
 **Rectángulo** - Procesos, aquí se representan los procesos que nos dan un resultado que podemos usar más adelante.
 
-**Romboide** - Entrada y salida de datos
+**Romboide** - Entrada y salida de datos.
 
 Componentes adicionales
 
-**Rectángulo embarazado? haha** - Nos sirve para imprimir en pantalla.
+**Rectángulo embarazado? haha(Impresión)** - Nos sirve para imprimir en pantalla.
+
+**Ciclo(Para/For)** - Nos sirve para representar el ciclo For.
+
+**Cilindro** - Almacenamiento de Base de Datos.
+
+**Rectángulo doble** - Nos sirve para representar subprocesos.
+
+**Círculo** - Conector en la misma página.
+
+**Conector fuera de página** - Conector en diferente página nos sirve para indicar la continuidad de un diagrama de flujo en una hoja distinta.
+
 
 **NOTA**: es importante recordarles que existe más símbología, pero estos son los más comunes.
 
@@ -59,12 +81,17 @@ Ejercicios
 3. Imprimir los números pares que existan desde el número 1 hasta el número que nos proporcione el usuario.
 
 
-
 Ejercicios extras para practicar ciclos
 --
 1. Hacer un diagrama para calcular el factorial de un número utilizando ciclos, es decir, pedir al usuario un número por ejemplo 5 y calcular el factorial así: 1 x 2 x 3 x 4 x 5 = 120 (sin usar el operador !).
 
 2. Hacer un diagrama de flujo que muestre en pantalla por ejemplo: "Hola Erika" el número de veces que el usuario diga. Es decir, pedir al usuario su nombre, y un número.
+
+3. Realizar un algoritmo que muestre los números de uno en uno hasta diez usando una estructura Para(For). 
+
+4. Usando una estructura Mientras(While), realizar un algoritmo que escriba los números de uno en uno hasta 20.
+
+5. Realizar un algoritmo que pregunte al usuario un número comprendido en el rango de 1 a 5. El algoritmo deberá validar el número, de manera que no continúe la ejecución del programa mientras no se escriba un número correcto. 
 
 Slides:
 --
