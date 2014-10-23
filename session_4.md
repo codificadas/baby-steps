@@ -28,9 +28,9 @@ Para(For):Dado un valor inicial exp1 asignado a la variable esta se irá aumenta
 
 **Ciclos indeterminados** - Son aquellos en que el numero de iteraciones no se conoce con exactitud.
 
-Mientras Que(while): Esta es una estructura que repetirá un proceso durante “N” veces, donde “N” puede ser fijo o variable. Para esto, la instrucción se vale de una condición que es la que debe cumplirse para que se siga ejecutando. Cuando la condición ya no se cumple, entonces ya no se ejecuta el proceso. 
+Mientras Que(Do While): Esta es una estructura que repetirá un proceso durante “N” veces, donde “N” puede ser fijo o variable. Para esto, la instrucción se vale de una condición que es la que debe cumplirse para que se siga ejecutando. Cuando la condición ya no se cumple, entonces ya no se ejecuta el proceso. 
 
-Repita-Hasta(Do While): Esta es una estructura repite un proceso una cantidad de veces, pero a diferencia del Mientras Que, el Repita-Hasta lo hace hasta que la condición se cumple y no mientras, como en el Mientras Que. Por otra parte, esta estructura permite realizar el proceso cuando menos una vez, ya que la condición se evalúa al final del proceso, mientras que en el Mientras Que puede ser que nunca llegue a entrar si la condición no se cumple desde un principio. 
+Repita-Hasta(Do Until): Esta es una estructura repite un proceso una cantidad de veces, pero a diferencia del Mientras Que, el Do Until lo hace hasta que la condición se cumple y no mientras, como en el Do While. Por otra parte, esta estructura permite realizar el proceso cuando menos una vez, ya que la condición se evalúa al final del proceso, mientras que en el Do While puede ser que nunca llegue a entrar si la condición no se cumple desde un principio. 
 
 Componentes de un diagrama de flujo
 --
@@ -89,9 +89,9 @@ Ejercicios extras para practicar ciclos
 
 3. Realizar un algoritmo que muestre los números de uno en uno hasta diez usando una estructura Para(For). 
 
-4. Usando una estructura Mientras(While), realizar un algoritmo que escriba los números de uno en uno hasta 20.
+4. Usando una estructura Mientras(Do While), realizar un algoritmo que escriba los números de uno en uno hasta 20.
 
-5. Realizar un algoritmo que pregunte al usuario un número comprendido en el rango de 1 a 5. El algoritmo deberá validar el número, de manera que no continúe la ejecución del programa mientras no se escriba un número correcto. 
+5. Realizar un algoritmo que pregunte al usuario un número comprendido en el rango de 1 a 5. El algoritmo deberá validar el número, de manera que no continúe la ejecución del programa mientras no se escriba un número correcto(Do Until). 
 
 Slides:
 --
