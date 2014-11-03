@@ -76,10 +76,11 @@ Hacer el pseudocódigo de todos los diagramas de flujo que ya realizamos ;)
 
 Además de los ejercicios extras con los que pueden practicar aquí:
 
-Sesión 3: [Hagámos diagramas de flujo](https://github.com/codificadas/baby-steps/blob/master/session_3.md)
+Sesión 3: [Hagamos diagramas de flujo](https://github.com/codificadas/baby-steps/blob/master/session_3.md)
 
-Sesión 4: [Hagámos diagramas de flujo (Parte 2)](https://github.com/codificadas/baby-steps/blob/master/session_4.md)
+Sesión 4: [Hagamos diagramas de flujo (Parte 2)](https://github.com/codificadas/baby-steps/blob/master/session_4.md)
 
 Slides:
 --
 Sesión 5: [Practiquemos pseudocódigo](https://www.haikudeck.com/baby-steps-education-presentation-eUqycWloNl)
+Sesión de repaso: [Un poco más de pseudocódigo](https://www.haikudeck.com/un-poco-ms-de-pseudocdigo-education-presentation-hBJEyHn1kQ)
