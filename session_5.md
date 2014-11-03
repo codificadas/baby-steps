@@ -83,4 +83,5 @@ Sesión 4: [Hagamos diagramas de flujo (Parte 2)](https://github.com/codificadas
 Slides:
 --
 Sesión 5: [Practiquemos pseudocódigo](https://www.haikudeck.com/baby-steps-education-presentation-eUqycWloNl)
+
 Sesión de repaso: [Un poco más de pseudocódigo](https://www.haikudeck.com/un-poco-ms-de-pseudocdigo-education-presentation-hBJEyHn1kQ)
