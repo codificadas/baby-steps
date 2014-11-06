@@ -30,7 +30,7 @@ Veamos como han ido evolucionando:
    * 2da generación (1950's - 1960's)
 
       * primer grupo de lenguajes de programación que traían operaciones lógicas.
-      * FORTRAN, LISP, COBAL
+      * FORTRAN, LISP, COBOL
 
    * 3ra generación (human friendly) (1960's - 1980's)
 
@@ -103,7 +103,6 @@ Lenguajes más comunes (Investiguen de cada uno ;))
   * Objective-C
   * Java
   * Ruby
-  * SQL
   * TCL
   * Visual Basic
   * ------------------
@@ -112,6 +111,12 @@ Lenguajes más comunes (Investiguen de cada uno ;))
   * UNIX shell
   * Python
   * COBAL
+  * -----------------
+  * SQL
+  * MySQL
+  * PostgreSQL
+  * Oracle
+  * MongoDB
 
 Ejercicios de Jerarquía de Operadores
 --
