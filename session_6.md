@@ -58,7 +58,7 @@ Un tipo de ejecución es como la computadora traduce los codigos a su lenguaje.
 
 **Interpretado**: El código fuente es convertido a lenguaje máquina durante su ejecución por un programa externo llamado intérprete. Es decir, la computadora evalúa nuestro código línea por línea. De esta manera el código se va ejecutando hasta que esté bien, paso a pasito.
 
-**Framework**: El código fuente es convertido a CRL ( Common Runtime Languaje), el cual contiene instrucciones estandarizadas para ser procesadas por la Máquina virtual o por el Framework. Como ayer comentábamos un Framework es como un contenedor en el que podemos incluir diversas librerías que nuestro programa puede utilizar.
+**Framework**: El código fuente es convertido a CRL ( Common Runtime Languaje), el cual contiene instrucciones estandarizadas para ser procesadas por la Máquina virtual o por el Framework. Un Framework es como un contenedor en el que podemos incluir diversas librerías que nuestro programa puede utilizar.
 
 **Emulado**: Por lo general, el código máquina que se ejecuta en una plataforma que no era nativa compilada, significa que este emulador simula el hardware para el que el programa fue desarrollado y así poder ser ejecutado.
 
