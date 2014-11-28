@@ -19,3 +19,5 @@ Sesión 6: [Primer contacto con los lenguajes de programación](https://github.c
 Sesión 7: [Conceptos básicos de programación (Episodio I)](https://github.com/codificadas/baby-steps/blob/master/session_7.md)
 
 Sesión 8: [Conceptos básicos de programación (Episodio II)](https://github.com/codificadas/baby-steps/blob/master/session_8.md)
+
+Sesión 9: [Programación Orientada a Objetos](https://github.com/codificadas/baby-steps/blob/master/session_9.md)
