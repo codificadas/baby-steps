@@ -62,19 +62,47 @@ Al final nos dimos cuenta que por más que ya sepamos realizar cualquiera de los
 
 Las computadoras son muy tontas y sino les dices todos los pasos ellas no tendrán idea de qué hacer, por eso la importancia de ser muy específicas y claras al momento de decirle a la computadora que hacer.
 
+Repesentacion de un algoritmo
+--
+Las herramientas de programación utilizadas como lenguajes algorítmicos son:
+- **Pseudocódigo:** es un lenguaje algorítmico, muy parecido  al español pero más conciso que permite la redacción  rápida del algoritmo.
+- **Diagramas de flujo:** ha sido la herramienta de programación por excelencia, y aún hoy sigue siendo muy  utilizada. Es fácil de diseñar pues el flujo lógico del  algoritmo se muestra en un diagrama en lugar de palabras.
+
+Pseudocódigo
+--
+Es un lenguaje de pseudoprogramación, muy parecido a un lenguaje de programación. El pseudocódigo es muy fácil de utilizar, ya que es muy  similar al español.   Algunas palabras utilizadas en el pseudocódigo:
+
+– **Inicio.**
+– **Fin.**
+– **Leer.**
+– **Escribir.**
+– **Asignar (x← y+z).**
+
+Diagramas
+--
+Un diagrama de flujo utiliza símbolos estándar en el que  cada paso del algoritmo se visualiza dentro del símbolo  y en el orden en que estos pasos se ejecutan, se indica conectándolos con flechas llamadas líneas de flujo, ya que indican el flujo lógico del algoritmo.
+
+El diagrama de flujo es la representación gráfica del algoritmo o proceso. Se utiliza en disciplinas como la programación, la economía, los procesos industriales y la psicología cognitiva. Estos diagramas utilizan símbolos con significados bien definidos que representan los pasos del algoritmo, y representan el flujo de ejecución mediante flechas que conectan los puntos de inicio y de fin de proceso.
+
 Slides:
 --
 Sesión 2: [Desarrollemos la lógica](https://www.haikudeck.com/baby-steps-education-presentation-udgjCCdvSw)
 
+Practiquemos un poco:
+--
+1.- Bloxrz: [Jugar](http://www.paisdelosjuegos.com.mx/juego/bloques+m%C3%B3viles/bloxorz.html)
+	 **Objetivo:** Ingresar el rectangulo dentro del cuadrado.
+
+2.- Los espejos de Mario: [Jugar](http://www.pequejuegos.com/jugar-los-espejos-de-mario.html)
+	 **Objetivo:** Llgar a a la meta solo girando los espejos.
+
 Tarea:
 --
-Resolver el siguiente juego y escribir el algoritmo paso por paso de cómo se resuelve.
+1.- El juego de Párking: [Jugar](http://www.pequejuegos.com/jugar-los-espejos-de-mario.html)
+	**Objetivo:** Estacionar el automovil según el color correspondiente, en la menor cantidad de movimientos.
 
-El juego del río: [Entra a jugar aquí](http://freeweb.siol.net/danej/riverIQGame.swf)
+Extra
+--
+Triángulo 2048: [Jugar](http://www.pequejuegos.com/jugar-tringulo-2048.html)
+	 **Objetivo:** Obtener el numero 2048 a partir de sumas en mutiplos de 8.
 
-El objetivo es pasar a todos al otro lado del río, son un padre, una madre, dos hijos, dos hijas, un policía y un raterito.
-
-**Reglas:**
-- Se puede pasar a un adulto solo, dos adultos o un adulto acompañado de un menor. Pero los menores (o el raterito) no pueden viajar solos.
-- El padre no se lleva bien con las hijas, y la madre con los hijos (los niñ@s no pueden quedarse solos sin su padre -del mismo género- o son maltratados por el otro u,u), y el raterito si no lo vigila el policía se da de golpes con cualquiera.
-- Diviértete! :)
