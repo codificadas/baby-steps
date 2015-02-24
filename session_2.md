@@ -62,7 +62,7 @@ Al final nos dimos cuenta que por más que ya sepamos realizar cualquiera de los
 
 Las computadoras son muy tontas y sino les dices todos los pasos ellas no tendrán idea de qué hacer, por eso la importancia de ser muy específicas y claras al momento de decirle a la computadora que hacer.
 
-Repesentacion de un algoritmo
+Repesentación de un algoritmo
 --
 Las herramientas de programación utilizadas como lenguajes algorítmicos son:
 - **Pseudocódigo:** es un lenguaje algorítmico, muy parecido  al español pero más conciso que permite la redacción  rápida del algoritmo.
