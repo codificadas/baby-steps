@@ -72,11 +72,11 @@ Pseudocódigo
 --
 Es un lenguaje de pseudoprogramación, muy parecido a un lenguaje de programación. El pseudocódigo es muy fácil de utilizar, ya que es muy  similar al español.   Algunas palabras utilizadas en el pseudocódigo:
 
-– **Inicio.**
-– **Fin.**
-– **Leer.**
-– **Escribir.**
-– **Asignar (x← y+z).**
+- **Inicio.**
+- **Fin.**
+- **Leer.**
+- **Escribir.**
+- **Asignar (x← y+z).**
 
 Diagramas
 --
