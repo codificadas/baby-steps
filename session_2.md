@@ -26,6 +26,12 @@ Los algoritmos poseen hoy en día una gran importancia tanto para informática, 
 
 Los algoritmos conllevan a llevar un proceso y un orden de ideas en todos los aspectos, pues cada actividad por mínima que sea requiere un orden que se da por medio de los grandes algoritmos que creamos asi sean mentales.
 
+Tipos de algoritmos
+--
+
+Existen dos tipos y son llamados así por su naturaleza: 
+-**Cualitativos:** Son aquellos en los que se describen los pasos utilizando palabras.
+-**Cuantitativos:** Son aquellos en los que se utilizan cálculos numéricos para definir los pasos del proceso.
 
 Partes de un algoritmo
 --
@@ -62,9 +68,10 @@ Al final nos dimos cuenta que por más que ya sepamos realizar cualquiera de los
 
 Las computadoras son muy tontas y sino les dices todos los pasos ellas no tendrán idea de qué hacer, por eso la importancia de ser muy específicas y claras al momento de decirle a la computadora que hacer.
 
-Repesentación de un algoritmo
+
+Lenguajes Algorítmicos
 --
-Las herramientas de programación utilizadas como lenguajes algorítmicos son:
+Las herramientas de programación utilizadas como lenguajes algorítmicos para la representación de un algoritmo son:
 - **Pseudocódigo:** es un lenguaje algorítmico, muy parecido  al español pero más conciso que permite la redacción  rápida del algoritmo.
 - **Diagramas de flujo:** ha sido la herramienta de programación por excelencia, y aún hoy sigue siendo muy  utilizada. Es fácil de diseñar pues el flujo lógico del  algoritmo se muestra en un diagrama en lugar de palabras.
 
