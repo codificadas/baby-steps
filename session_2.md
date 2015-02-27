@@ -105,7 +105,7 @@ Practiquemos un poco:
 
 Tarea:
 --
-1.- El juego de Párking: [Jugar](http://www.pequejuegos.com/jugar-los-espejos-de-mario.html)
+1.- El juego de Párking: [Jugar](http://www.pequejuegos.com/jugar-prking-de-lgica.html)
 	**Objetivo:** Estacionar el automovil según el color correspondiente, en la menor cantidad de movimientos.
 
 Extra
