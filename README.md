@@ -12,7 +12,7 @@ Sesión 3: [Hagámos diagramas de flujo (Episodio I)](https://github.com/codific
 
 Sesión 4: [Hagámos diagramas de flujo (Episodio II)](https://github.com/codificadas/baby-steps/blob/master/session_4.md)
 
-Sesión 5: [Practiquemos pseudocódigo](https://github.com/codificadas/baby-steps/blob/master/session_5.md)
+Sesión 5: [Sigamos practicando pseudocódigo](https://github.com/codificadas/baby-steps/blob/master/session_5.md)
 
 Sesión 6: [Primer contacto con los lenguajes de programación](https://github.com/codificadas/baby-steps/blob/master/session_6.md)
 
