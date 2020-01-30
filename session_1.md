@@ -2,7 +2,7 @@
 
 En esta primera sesión se pretende dar un panorama general de la computación. Empezamos hablando del concepto más básico para poco a poco empezar a hablar de lenguajes de programación.
 
-Temas:
+**Temas:**
  - ¿Qué es una computadora?
  - ¿Qué es el sistema binario?
  - ¿Por qué se usa binario?
@@ -13,9 +13,12 @@ Temas:
  - ¿Cómo se hace el software?
  - ¿Qué es un lenguaje de programación?
  - Clasificación de los lenguajes de programación.
+
+ ## Actividades
+ -  Actividad 1 - Conoce el hardware general.
 ---
-#### ¿Qué es una computadora?
-Es una herramienta que tarbaja a base de electricidad y su lógica se basa en el sistema binario que nos permite realizar diversas tareas.  
+** ¿Qué es una computadora? **
+Es una herramienta que trabaja a base de electricidad y su lógica se basa en el sistema binario que nos permite realizar diversas tareas.  
 
 >  Máquina electrónica capaz de almacenar información y tratarla automáticamente mediante operaciones matemáticas y lógicas controladas por programas informáticos.
 
@@ -61,9 +64,9 @@ Podemos hacer escribir tareas, cuentos, cartas, emails, tomar, ver, editar fotos
 
 
 #### ¿Cómo controlar las computadoras?
-Algo importante es que las computadoras son tontas, tienen la capacidad de hacer muchas cosas, pero no la inciativa. La máquina no hará nada que no se le especifique ni dará cosas por obvias.
+Algo importante es que las computadoras son tontas, tienen la capacidad de hacer muchas cosas, pero no la iniciativa. La máquina no hará nada que no se le especifique ni dará cosas por obvias.
 
-La computadora solo entiende binario, pero los progrmadores no lo manejamos como el lenguaje natural.
+La computadora solo entiende binario, pero los programadores no lo manejamos como el lenguaje natural.
 Afortunadamente existen maneras muy sencillas de decirles que hagan algo, tan simple como agarrar el mouse y dirigirlo a lo que queremos.
 
 Todas la acciones que hacemos con las computadoras por medio de cualquier software son traducidas a binario, que esto se convierte en señales electrónicas para hacer funcionar el hardware.
@@ -76,7 +79,7 @@ Como ya mencionamos, las computadoras lo único que entienden es binario, pero p
 
 #### ¿Qué es un lenguaje de programación?
 
-Los lenguajes de programación son una manera más humana de comunicarnos con la computadora. Estos son como los lenguajes normales del habla, por ejemplo hablar Inglés puede ser similar que saber Ruby o hablar Alemán puede ser similar a hablar Java y asi sucesivamente con todos los demas lenguajes de programacion.
+Los lenguajes de programación son una manera más humana de comunicarnos con la computadora. Estos son como los lenguajes normales del habla, por ejemplo hablar Inglés puede ser similar que saber Ruby o hablar Alemán puede ser similar a hablar Java y así sucesivamente con todos los demás lenguajes de programación.
 
 Y así como los lenguajes del habla, tienen gramática y semántica, los lenguajes de programación también tienen sus reglas.
 
@@ -86,9 +89,9 @@ Y así como los lenguajes del habla, tienen gramática y semántica, los lenguaj
 
 Los lenguajes se pueden clasificar de muchas formas, por su orientación, propósito, sintáxis, ejecución, etc.
 
-No hay lenguaje mejor que otro, son herramientas que pueden aplicrse dependiendo del problema a atacar.
+No hay lenguaje mejor que otro, son herramientas que pueden aplicarse dependiendo del problema a atacar.
 
-*No usamos una bomba nuclear para matar una mosca ni un matrillo para tirar un edificio completo.*
+*No usamos una bomba nuclear para matar una mosca ni un martillo para tirar un edificio completo.*
 
 Para que el código que escribimos pueda ser traducido a binario hay dos formas, compilarlo o interpretarlo.
 
@@ -101,7 +104,7 @@ Los pasos de forma general son:
 - Se puede ejecutar.
 
 ##### Lenguajes interpretados.
-Son lenguajes que nacieron con la finalidad de que el software pudiese correr en la mayor cantidad de dspositivos de manera más rápida (dejando la eficiencia un poco de lado). Para poder correrlos solo es necesario tener el intérprete del lenguaje disponible.
+Son lenguajes que nacieron con la finalidad de que el software pudiese correr en la mayor cantidad de dispositivos de manera más rápida (dejando la eficiencia un poco de lado). Para poder correrlos solo es necesario tener el intérprete del lenguaje disponible.
 
 Los pasos de forma general son:
 - Se escribe el código.
@@ -110,7 +113,7 @@ Los pasos de forma general son:
 ---
 ## Actividades
 #### Actividad 1 - Conoce el hardware general.
-Se propone para ésta sesión llevar una computadora que se pueda desensamblar para que los alumnos puedan ver y tocar el hardware que compone a las computadoras. Esto con el fin de que se den cuenta que existen las partes físicas de los compoutadores.
+Se propone para ésta sesión llevar una computadora que se pueda desensamblar para que los alumnos puedan ver y tocar el hardware que compone a las computadoras. Esto con el fin de que se den cuenta que existen las partes físicas de los computadores.
 
 De no ser posible bastará con llevar una memoria RAM, un procesador y un disco duro para explicar la funcionalidad de cada uno de los componentes.
 
