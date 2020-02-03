@@ -12,12 +12,14 @@ En esta primera sesión se pretende dar un panorama general de la computación. 
  - ¿Cómo controlar las computadoras?
  - ¿Cómo se hace el software?
  - ¿Qué es un lenguaje de programación?
- - Clasificación de los lenguajes de programación.
+ - Clasificación de los lenguajes de programación.  
 
- ## Actividades
+
+**Actividades:**
  -  Actividad 1 - Conoce el hardware general.
+
 ---
-** ¿Qué es una computadora? **
+#### ¿Qué es una computadora?
 Es una herramienta que trabaja a base de electricidad y su lógica se basa en el sistema binario que nos permite realizar diversas tareas.  
 
 >  Máquina electrónica capaz de almacenar información y tratarla automáticamente mediante operaciones matemáticas y lógicas controladas por programas informáticos.

@@ -12,7 +12,6 @@ En nuestro primer acercamiento al verdadero mundo de la programación hablamos d
 **Actividades:**
 - Actividad 2.1 - Anécdota Descartes Pienso, luego existo.
 - Actividad 2.2 - Nosotros como computadoras.
-- Actividad 2.3 - Diseñando el algoritmo.
 ---
 
 #### ¿Qué es la lógica?
@@ -70,7 +69,7 @@ Para poder diseñar un algoritmo no necesitamos más que papel, lápiz y la lóg
 
 ##### Diagramas
 
-Un diagrama de flujo utiliza símbolos estándar en el que  cada paso del algoritmo se visualiza dentro del símbolo  y en el orden en que estos pasos se ejecutan, se indica conectándolos con flechas llamadas líneas de flujo, ya que indican el flujo lógico del algoritmo.
+Un diagrama de flujo es una representación gráfica de un proceso. Utiliza símbolos estándar en el que  cada paso del algoritmo se visualiza dentro del símbolo  y en el orden en que estos pasos se ejecutan, se indica conectándolos con flechas llamadas líneas de flujo, ya que indican el flujo lógico del algoritmo.
 
 El diagrama de flujo es la representación gráfica del algoritmo o proceso. Se utiliza en disciplinas como la programación, la economía, los procesos industriales y la psicología cognitiva. Estos diagramas utilizan símbolos con significados bien definidos que representan los pasos del algoritmo, y representan el flujo de ejecución mediante flechas que conectan los puntos de inicio y de fin de proceso.
 
@@ -86,7 +85,7 @@ Es una forma de expresar las instrucciones que serán escritas eventualmente en 
 
 ## Actividades.
 #### Actividad 2.1 - Anécdota Descartes Pienso, luego existo.
-Explicar cómo a partir de la lógica surge ésta frase tan conocida.
+Explicar cómo a partir de la lógica surge ésta frase tan conocida y el contexto en el que nace el método científico.
 
 SXVI - Nicolás Copérnico pone en duda el pensamiento aristotélico por medio del heliocentrismo. Se empieza a consolidar la revolución científica. En el mundo hay mucha incertidumbre por que no se sabe en qué se debe creer. René Descartes S-XVII propone 4 cánones.
  - 1- Regla se la evidencia.(Nunca aceptar por verdadero algo que no podamos evidenciar)
@@ -101,9 +100,6 @@ Para la actividad propuesta se debe tener el siguiente material.
 
 Deberán formar equipos y tomar una tarjeta de *tareas*. Un integrante del equipo será la computadora, quién deberá de llevar a cabo las instrucciones que se le indiquen de la manera más fiel posible. El resto de equipo deberá de ordenar las tarjetas de *movimientos* para que la computadora pueda llevar a cabo la acción correspondiente.
 
-
-#### Actividad 2.3 - Diseñando el algoritmo.
-Por equipos deberán de realizar un diagrama de flujo y el pseudocódigo de la tarea en la actividad anterior.
 
 ## TODO
 - Slides
