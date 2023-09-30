@@ -3,36 +3,6 @@ Primer contacto con lenguajes de programación
 
 En nuestre sexta sesión de Baby Steps empezaremos con una serie de platicas sobre conceptos necesarios para programar.
 
-¿Qué puede hacer la computadora por mi?
---
-
-En nuestra primera sesión de Baby Steps platicamos de qué podiamos hacer con la computadora y comentamos que son muchas cosas las que se pueden hacer tantas que nos asustaba, algunos ejemplo mencionados fueron: escribir documentos, escuchar musica, ver peliculas, navegar en la red, etc. Sin embargo hay otras cosas que igual hace la computadora y no nos damos cuenta, como: operaciones aritméticas, comparaciones u lógicas. Todo esto lo hace por detras para poder darnos resultados como un editor de texto o un programa para escuchar música.
-
-Sintaxis (Gramática)
---
-
-Conjunto de reglas que combina símbolos y formato para definir la estructura de un programa de computadora.
-
-Se necesita que el programa tenga gramática para que compile (no nos de errores).
-
-Semántica
---
-
-Es lo que significa el código (lo que puede ser descrito como pseudo código).
-Se necesita corrécta semántica para que haga lo que tenga que hacer.
-
-Ejemplo
---
-
-En el lenguaje español, la frase:
-
-```
-La mujere camina hasta el cielo.
-```
-
-- Es **sintácticamente corrécta** porque cumple con las reglas del español.
-- Es **semánticamente incorrécta** porque no tiene sentido.
-
 Variables
 --
 
@@ -100,9 +70,9 @@ Ejercicios de Jerarquía de Operadores
   1. ( 5 ( 7 ( 5 - 3 ) + 12 ) - 2 )
   2. ( 5 - 6 ( 7 / 2 ( - 6 - 3 ) + 12 * 24 ) - 2 )
   3. 5 * 3 + 12 - 14 / 2
-  4. 2 * 5 * 5 + 3 * 5 + 7
-  5. 10 * 20 > 40 * 10 + 2,
-  6. 8 * 10 <> ( 10 - 30 ) * 16
+  4. 2 *5* 5 + 3 * 5 + 7
+  5. 10 *20 > 40* 10 + 2,
+  6. 8 *10 <> ( 10 - 30 )* 16
   7. 5 > 2 AND 10 >= 9
   8. 3 > 5 AND 3 < 10
   9. 5 > 2 OR 10 >= 9
