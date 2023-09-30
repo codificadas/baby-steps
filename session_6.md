@@ -3,6 +3,28 @@ Primer contacto con lenguajes de programación
 
 En nuestre sexta sesión de Baby Steps empezaremos con una serie de platicas sobre conceptos necesarios para programar.
 
+IDE's
+--
+
+El programa para hacer programas :P
+
+Un IDE nos da todas la hermamientas para que podamos escribir tranquilamente nuestro código.
+
+Hay de muchos sabores y colores, cada quien usa el que más le gusta. Igual depende del lenguaje de programación que utilices
+
+Aquí unos IDE's:
+
+- RubyMine
+- NetBeans
+- Aptana
+
+Por otro lado, sino queremos usar programas tan sofisticados (complicados aveces), podemos usar simples editores de texto, claro que estos no tienen tantas herramientas pero sirven para el mismo fin.
+
+Algunos de estos son:
+
+- Sublime Text
+- VIM
+
 Variables
 --
 
@@ -21,11 +43,11 @@ Jerarquía de Operadores
 
 2.- signo -,+
 
-3.- potencias y raices ^
+3.- Sumas y restas, +,-
 
 4.- multiplicaciones y divisiones (módulo tmb) *,/,%
 
-5.- Sumas y restas, +,-
+5.- potencias y raices ^
 
 **Operadores relacionales (su resultado es un valor de verdad, 0 falso, 1 verdadero)**
 
@@ -40,27 +62,6 @@ Jerarquía de Operadores
 - Si hay dos o más de la misma jerarquía u orden, resolver de izquierda a derecha.
 - Si se quiere alterar el orden normal de operaciones, entonces usar paréntesis.
 - Tampoco es bueno usar paréntesis de más en una operación, esto sólo indica que no se evalúo bien la formula, como en el siguiente ejemplo: area = (base * altura) / 2
-
-IDE's
---
-
-El programa para hacer programas :P
-
-Un IDE nos da todas la hermamientas para que podamos escribir tranquilamente nuestro código. Estos ya compilan y corren el programa por ti.
-
-Hay de muchos sabores y colores, cada quien usa el que más le gusta. Igual depende del lenguaje de programación que utilices
-
-Aquí unos IDE's:
-*RubyMine
-*NetBeans
-*Aptana
-
-Por otro lado sino queremos usar programas tan sofisticados (complicados aveces) podemos usar simples editores de texto, hasta en notepad puedes usar para programar, claro que estos no tienen tantas herramientas pero sirven para el mismo fin.
-
-Algunos de estos son:
-
-- Sublime Text
-- VIM
 
 Ejercicios de Jerarquía de Operadores
 --
