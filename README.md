@@ -1,5 +1,6 @@
 Baby Steps
 ==========
+
 Toda la información platicada en las sesiones de Baby Steps se estará recopilando en este repo.
 
 Sesión 0: [¿Puedo ser una desarrolladora de Software?](https://github.com/codificadas/baby-steps/blob/master/session_0.md)
@@ -16,8 +17,8 @@ Sesión 5: [Sigamos practicando pseudocódigo](https://github.com/codificadas/ba
 
 Sesión 6: [Primer contacto con los lenguajes de programación](https://github.com/codificadas/baby-steps/blob/master/session_6.md)
 
-Sesión 7: [Conceptos básicos de programación (Episodio I)](https://github.com/codificadas/baby-steps/blob/master/session_7.md)
+Sesión 7: [Conceptos básicos de programación](https://github.com/codificadas/baby-steps/blob/master/session_7.md)
 
-Sesión 8: [Conceptos básicos de programación (Episodio II)](https://github.com/codificadas/baby-steps/blob/master/session_8.md)
+Sesión 8: [Teoría sobre lenguajes de programación y otros conceptos](https://github.com/codificadas/baby-steps/blob/master/session_8.md)
 
 Sesión 9: [Programación Orientada a Objetos](https://github.com/codificadas/baby-steps/blob/master/session_9.md)

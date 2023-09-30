@@ -22,7 +22,7 @@ Podemos hacer presentaciones, documentos, cálculos, ver/editar nuestras fotos, 
 ¿Cómo puedo decirle que haga algo?
 --
 
-Para decirle a una computadora que haga algo, necesitamos decirle en binario.
+Para decirle a una computadora que haga algo, ¿Necesitamos decirle en binario?
 
 No! Afortunadamente existen maneras muy sencillas de decirles que hagan algo, tan simple como agarrar el mouse y dirigirlo a lo que queremos.
 

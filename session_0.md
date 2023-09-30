@@ -1,7 +1,7 @@
 ¿Puedo ser una desarrolladora de software?
 ===
 
-Esta es una sesión de introducción en la que mostramos los aspectos generales del mundo de la programación; entre otros, las características que una persona debe tener para ser un programador, los beneficios que se pueden obtener y los desafíos a los que cada persona se enfrenta al involucrarse en esta área de trabajo. Para ello, primeramente debemos tener claro lo que es un desarrollador de software.
+Esta es una sesión de introducción en la que mostramos los aspectos generales del mundo de la programación; entre otros, las características que una persona debe tener para ser un programador, los beneficios que se pueden obtener y los desafíos a los que cada persona se enfrenta al involucrarse en esta área de trabajo. Para ello, primeramente debemos tener claro lo que es una desarrolladora de software.
 
 ¿Qué es una desarrolladora de software?
 --

@@ -30,8 +30,9 @@ Tipos de algoritmos
 --
 
 Existen dos tipos y son llamados así por su naturaleza:
--**Cualitativos:** Son aquellos en los que se describen los pasos utilizando palabras.
--**Cuantitativos:** Son aquellos en los que se utilizan cálculos numéricos para definir los pasos del proceso.
+
+- **Cualitativos:** Son aquellos en los que se describen los pasos utilizando palabras.
+- **Cuantitativos:** Son aquellos en los que se utilizan cálculos numéricos para definir los pasos del proceso.
 
 Partes de un algoritmo
 --
@@ -55,7 +56,7 @@ Características de un algoritmo
 
 **Exento de ambigüedades:**  No debe dar lugar a malos entendidos.
 
-**Numerados:** Deben llevar un orden.
+**Ordenados:** Deben llevar un orden.
 
 Ejemplos
 --
