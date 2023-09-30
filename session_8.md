@@ -1,69 +1,78 @@
-Conceptos básicos de programación (Episodio II)
+Teoría sobre lenguajes de programación y otros conceptos
 ==
 
-Sentencias de decisión
+¿Qué puede hacer la computadora por mi?
 --
-Son una estructura de programación que es usada para evaluar decisiones lógicas (si si o sino). Estas estructuras nos dan como resultado un valor de true o false.
 
-   * Tipos
-      * If/then/else
-      * Case
-      
-Ciclos
+En nuestra primera sesión de Baby Steps platicamos de qué podiamos hacer con la computadora y comentamos que son muchas cosas las que se pueden hacer tantas que nos asustaba, algunos ejemplo mencionados fueron: escribir documentos, escuchar musica, ver peliculas, navegar en la red, etc. Sin embargo hay otras cosas que igual hace la computadora y no nos damos cuenta, como: operaciones aritméticas, comparaciones u lógicas. Todo esto lo hace por detras para poder darnos resultados como un editor de texto o un programa para escuchar música.
+
+Sintaxis (Gramática)
 --
-Una estructura de programación utilizada para procesar múltiples iteraciones de código (el mismo código varias veces). Estas nos sirven cuando tenemos que repetir el código varias veces pero para difirentes valores. Por ejemplo recorrer un array.
 
-   * Tipos
-      * While
-      * Do/While
-      * For
-      * For Each
+Conjunto de reglas que combina símbolos y formato para definir la estructura de un programa de computadora.
 
-   * Son comúnmente utilizados para iterar sobre un proceso o lista de items (array)
-   * Casi todos los algoritmos usan un ciclo
-   
-POO
+Se necesita que el programa tenga gramática para que compile (no nos de errores).
+
+Semántica
 --
-Programacion Orientado a Objetos es un estilo de programar el cual nos permite plasmar otros tipos de datos para resolver los problemas de la vida real, es decir cualquier problema en el que nos enfrentemos podremos representarlo en código por medio de clases.
 
-Todos los objetos tienen un conjunto de características que los identifican e igualmente tienen diferentes acciones.
+Es lo que significa el código (lo que puede ser descrito como pseudo código).
+Se necesita corrécta semántica para que haga lo que tenga que hacer.
 
-**Clases**
-
-Para poder crear estos objetos necesitaremos clases. Las **clases** son las estructuras de código que representaran nuestros objetos. 
-
-Como mencionamos todos los objetos tienen características, estas serán representadas en las clases por medio de variables y las acciones que pueda realizar este objeto se podrán representar por medio de métodos.
-
-**Instancias**
-
-Sin embargo las clases solo son el concepto de nuestro objeto, para que podamos tener un objeto "real" necesitaremos crealo o como mejor se le conoce hacer una **instancia** de la clase. 
-
-Con las instacias ya podemos hacer uso de nuestro objeto. Por ejemplo tenemos nuestra clase Rana (la cual hace representación del concepto de una rana, igual lo podemos ver como una plantilla)
-
-
-IDE's
+Ejemplo
 --
-El programa para hacer programas :P
 
-Un IDE nos da todas la hermamientas para que podamos escribir tranquilamente nuestro código. Estos ya compilan y corren el programa por ti.
+En el lenguaje español, la frase:
 
-Hay de muchos sabores y colores, cada quien usa el que más le gusta. Igual depende del lenguaje de programación que utilices
+```
+La mujere camina hasta el cielo.
+```
 
-Aquí unos IDE's:
-*RubyMine
-*NetBeans
-*Aptana
+- Es **sintácticamente corrécta** porque cumple con las reglas del español.
+- Es **semánticamente incorrécta** porque no tiene sentido.
 
-Por otro lado sino queremos usar programas tan sofisticados (complicados aveces) podemos usar simples editores de texto, hasta en notepad puedes usar para programar, claro que estos no tienen tantas herramientas pero sirven para el mismo fin.
+Tipos de ejecución
+--
 
-Algunos de estos son:
-* Sublime Text
-* VIM
+Un tipo de ejecución es como la computadora traduce los codigos a su lenguaje.
+
+**Compilado**: El código fuente es convertido a lenguaje máquina por un compilador. Es decir que la computadora evalúa todo nuestro código y luego nos dice si lo entendió, mostrando un resumen de lo que no en caso de haber errores. Es fácil identificar este tipo de ejecución porque siempre, luego de compilar todo nuestro código, obtenemos un archivo "extra", un archivo ejecutable.
+
+**Interpretado**: El código fuente es convertido a lenguaje máquina durante su ejecución por un programa externo llamado intérprete. Es decir, la computadora evalúa nuestro código línea por línea. De esta manera el código se va ejecutando hasta que esté bien, paso a pasito.
+
+**Framework**: El código fuente es convertido a CRL ( Common Runtime Languaje), el cual contiene instrucciones estandarizadas para ser procesadas por la Máquina virtual o por el Framework. Como ayer comentábamos un Framework es como un contenedor en el que podemos incluir diversas librerías que nuestro programa puede utilizar.
+
+**Emulado**: Por lo general, el código máquina que se ejecuta en una plataforma que no era nativa compilada, significa que este emulador simula el hardware para el que el programa fue desarrollado y así poder ser ejecutado.
+
+Lenguajes de programación más comunes (Investiguen de cada uno ;))
+--
+
+- C
+- C++
+- C#
+- Perl
+- JavaScript
+- PHP
+- Objective-C
+- Java
+- Ruby
+- SQL
+- Visual Basic
+- UNIX shell
+- Python
+- COB0L
+
+Dependencias/Librerías
+--
+
+Cualquier Código/Libreria/Ejecutable que es necesario para que un programa se ejecute o compile.
 
 API
 --
+
 Application Programming Interface son un conjunto de métodos disponibles para hacer uso de otra aplicación.
 
-Slides:
+Slides
 --
+
 Sesión 8: [Conceptos básicos de programación (Episodio II)](https://www.haikudeck.com/baby-steps-education-presentation-fQjTipqKeU)
